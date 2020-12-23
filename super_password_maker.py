@@ -1,3 +1,5 @@
+'''DEVELPOED BY MOEIN REZAIE '''
+
 import hashlib
 '''
 Super password maker using sha256
