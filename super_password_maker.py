@@ -59,11 +59,3 @@ get_lenth()
 func1(User_key)
 
 print(sha256_key[:lenth])
-'''
-if lenth<=64:
-	func1(Keyi)
-else:
-	while lenth>64:
-			lenth=lenth/2
-'''
-#print(sha256_key)
