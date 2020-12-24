@@ -3,7 +3,7 @@
 import hashlib
 '''
 Super password maker using sha256
-1) this app changes some sha256 chars of yor key
+1) this app changes some sha256 chars of your key
 '''
 User_key= input("Enter your Key: ")
 
