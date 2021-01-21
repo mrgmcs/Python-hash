@@ -1,10 +1,11 @@
-'''DEVELPOED BY MOEIN REZAIE '''
+'''DEVELPOED BY MOEIN REZAIE 
 
-import hashlib
-'''
 Super password maker using sha256
 1) this app changes some sha256 chars of your key
 '''
+
+import hashlib
+
 User_key= input("Enter your Key: ")
 
 def get_lenth():
