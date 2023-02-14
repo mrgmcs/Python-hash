@@ -35,7 +35,8 @@ def func1(Key):
 	#this ascii number is our "for" loop range
 	ascy_for= ord(sha256_key[0])
 
-	salt_list= "!%()?†‰Õ{®^&*®µ>ÿ¥™£Æíá|Ö$~}_<€Ø-æ+ßþ@#œ"
+	#salt_list= "!%()?†‰Õ{®^&*®µ>ÿ¥™£Æíá|Ö$~}_<€Ø-æ+ßþ@#œ"
+	salt_list= "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 	for i in range(ascy_for):
 
